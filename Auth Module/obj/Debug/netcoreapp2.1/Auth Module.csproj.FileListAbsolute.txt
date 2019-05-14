@@ -1,0 +1,14 @@
+D:\Dotnet projects\Auth Module\Auth Module\bin\Debug\netcoreapp2.1\Auth Module.deps.json
+D:\Dotnet projects\Auth Module\Auth Module\bin\Debug\netcoreapp2.1\Auth Module.runtimeconfig.json
+D:\Dotnet projects\Auth Module\Auth Module\bin\Debug\netcoreapp2.1\Auth Module.runtimeconfig.dev.json
+D:\Dotnet projects\Auth Module\Auth Module\bin\Debug\netcoreapp2.1\Auth Module.dll
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.csprojAssemblyReference.cache
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.csproj.CoreCompileInputs.cache
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.RazorAssemblyInfo.cache
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.RazorAssemblyInfo.cs
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.AssemblyInfoInputs.cache
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.AssemblyInfo.cs
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.RazorTargetAssemblyInfo.cache
+D:\Dotnet projects\Auth Module\Auth Module\bin\Debug\netcoreapp2.1\Auth Module.pdb
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.dll
+D:\Dotnet projects\Auth Module\Auth Module\obj\Debug\netcoreapp2.1\Auth Module.pdb
